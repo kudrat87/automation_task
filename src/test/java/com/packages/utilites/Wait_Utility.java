@@ -1,4 +1,4 @@
-package com.tipico.utilites;
+package com.packages.utilites;
 
 public class Wait_Utility {
 

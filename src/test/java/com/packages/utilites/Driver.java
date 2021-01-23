@@ -1,4 +1,4 @@
-package com.tipico.utilites;
+package com.packages.utilites;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;

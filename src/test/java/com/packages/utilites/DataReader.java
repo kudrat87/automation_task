@@ -1,4 +1,4 @@
-package com.tipico.utilites;
+package com.packages.utilites;
 
 import java.io.FileInputStream;
 import java.io.IOException;

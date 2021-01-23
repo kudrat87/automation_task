@@ -1,6 +1,6 @@
-package com.tipico.step_definition;
+package com.packages.step_definition;
 
-import com.tipico.utilites.Driver;
+import com.packages.utilites.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 import io.cucumber.java.Scenario;
